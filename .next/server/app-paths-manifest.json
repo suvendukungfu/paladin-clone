@@ -1,0 +1,7 @@
+{
+  "/(app)/skill-tree/page": "app/(app)/skill-tree/page.js",
+  "/(app)/lessons/page": "app/(app)/lessons/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js",
+  "/(app)/quiz/[id]/page": "app/(app)/quiz/[id]/page.js",
+  "/(app)/lessons/[id]/page": "app/(app)/lessons/[id]/page.js"
+}
